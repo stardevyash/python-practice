@@ -4,7 +4,7 @@ def main():
     i = input("Enter  your name:")
     if i == "exit":
         print("Thank you for using this program\nExiting...")
-        exit(0) 
+        pass
     elif i.upper() in l:
         print(f"Hello {i}")
     else:
