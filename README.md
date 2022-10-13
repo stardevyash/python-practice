@@ -6,6 +6,7 @@
 
 - Lists
 - While loops
+- For loops
 - Functions
 - Conditional statements
 - Jump statements
